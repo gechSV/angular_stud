@@ -6,3 +6,7 @@
 
 
 `ng generate component item` - создание нового компонента;
+
+check 
+
+
